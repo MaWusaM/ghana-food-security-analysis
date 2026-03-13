@@ -1,4 +1,4 @@
- **Food Security Trends in Ghana (1990–2023).**
+## Food Security Trends in Ghana (1990–2023).
  
  A Python-based analysis of food security trends in Ghana using World Bank data (1990–2023).
 
@@ -18,7 +18,7 @@
 - Clear visualizations to communicate long-term agricultural and demographic trends
 
 
-  ## Project Workflow
+## Project Workflow
 ```
 The project follows a structured data analysis pipeline:
 
@@ -125,6 +125,14 @@ This analysis explores how these variables interact over time and whether agricu
 
 The project demonstrates a complete data analysis workflow in Python, including data extraction from an API, data cleaning, exploratory data analysis, 
 statistical correlation analysis, and the creation of a custom food security risk indicator.
+
+## Problem Statement
+
+Rapid population growth can place increasing pressure on national food systems. 
+Understanding whether agricultural production and farming inputs are keeping pace with population growth is important for assessing food security risks.
+
+This project analyzes long-term trends in Ghana’s population, food production, fertilizer consumption, and undernourishment 
+levels between 1990 and 2023 in order to evaluate how food availability has evolved over time.
 
 **Research Questions**
 
@@ -256,6 +264,18 @@ productivity and fertilizer use have helped keep food production in step with po
 - Fertilizer consumption is strongly associated with higher food production.
 - Undernourishment tends to decrease as food production increases.
 - The constructed Food Security Risk Index suggests that food security conditions improved over the long term.
+
+  ## Key Insights
+
+- Ghana’s population increased steadily from approximately 15 million in 1990 to over 33 million in 2023, creating increasing demand for food production.
+
+- The Food Production Index shows a strong upward trend over the same period, indicating significant improvements in agricultural productivity.
+
+- Fertilizer consumption demonstrates a strong positive relationship with food production, suggesting that increased agricultural inputs contribute to higher productivity.
+
+- Undernourishment levels show a declining trend over time, which may reflect improvements in food availability and agricultural output.
+
+- The constructed Food Security Risk Index shows a gradual decline, suggesting that Ghana’s agricultural production and inputs have generally kept pace with population growth.
 
 **Limitations**
 
